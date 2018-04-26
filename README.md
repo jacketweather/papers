@@ -24,4 +24,4 @@ This is a list of ML ideas and papers.
  - [An Overview of Statistical Learning Theory - Vapnik](http://math.arizona.edu/~hzhang/math574m/Read/vapnik.pdf)
  
 ## Advice
-- [Yann LeCun on path from undergradate to research scientist](https://www.quora.com/What’s-your-advice-for-undergraduate-student-who-aspires-to-be-a-research-scientist-in-deep-learning-or-related-field-one-day)
+- [Yann LeCun on path from undergraduate to research scientist](https://www.quora.com/What’s-your-advice-for-undergraduate-student-who-aspires-to-be-a-research-scientist-in-deep-learning-or-related-field-one-day)
