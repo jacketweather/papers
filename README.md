@@ -29,7 +29,7 @@ Generalization Gap and Sharp Minima](https://arxiv.org/pdf/1609.04836.pdf)
 ## AI methods
 
 - Poker
- * [Heads-up limit hold'em poker is solved](http://delivery.acm.org/10.1145/3140000/3131284/p81-bowling.pdf?ip=141.126.87.116&id=3131284&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1533115629_9ca95a1aad67eca6ca217185228831c1)
+  * [Heads-up limit hold'em poker is solved](http://delivery.acm.org/10.1145/3140000/3131284/p81-bowling.pdf?ip=141.126.87.116&id=3131284&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1533115629_9ca95a1aad67eca6ca217185228831c1)
 
 ## General ideas 
 
